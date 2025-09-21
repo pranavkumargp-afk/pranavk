@@ -1,0 +1,7 @@
+{
+  "name": "MindScribe AI: Mental Wellness Analyzer",
+  "description": "An AI-powered text and voice analysis tool to provide insights into emotional states, track trends, and find local mental health resources. This tool is for informational purposes and is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
